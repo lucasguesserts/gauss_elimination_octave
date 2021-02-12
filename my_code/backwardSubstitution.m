@@ -1,0 +1,3 @@
+function solution = backwardSubstitution(expandedMatrix)
+	% details...
+end
